@@ -1,4 +1,8 @@
 {
   "lang": "language",
-  "msg": "this is a message in english with a {{lorem}}."
+  "msg": "this is a message in english with a {{lorem}}.",
+  "test":"this another string for a test ",
+  "exple":"a string to serve as exemple",
+  "smpl":"text for dialogue"
+  
 }
