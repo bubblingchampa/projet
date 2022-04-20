@@ -3,5 +3,8 @@
     "msg": "voici un message en anglais avec un {{lorem}}.",
     "test": "voici une chaine pour un test ",
     "exple": "une chaine pour servir d'exemple",
-    "smpl": "text pour dialogue"
+    "smpl": "text pour dialogue",
+    "new": "nouvelle chaine",
+    "new2": "une autrechaine à traduire",
+    "prj": "une chaine pour le projet"
 }
