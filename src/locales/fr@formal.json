@@ -1,3 +1,4 @@
 {
-    "lang": "langue"
+    "lang": "langue",
+    "msg": "voici un message en anglais avec un {{lorem}}."
 }
