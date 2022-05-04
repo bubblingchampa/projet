@@ -8,7 +8,9 @@
   "new2":"another string to translate",
   "prj":"string for project",
   "pr":"string test auto update",
-  "anth":"another test string for another test"
+  "anth":"another test string for another test",
+  "txt" : "a text for a text",
+  "updte":"an update for an update"
 
   
 }
